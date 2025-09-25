@@ -1,0 +1,202 @@
+#### Week One (22/09)
+- [x] Meet Supervisor 
+#### Week Two (29/09)
+- [x] Functional Programming Lecture 1
+- [x] Functional Programming Lecture 2
+- [ ] Functional Programming Lab Sheet 1
+- [ ] Functional Programming Quiz 1
+- [x] Computer Architecture Lecture 1
+- [ ] Computer Architecture Lecture 2
+- [x] Algorithmics II Lecture 1
+- [x] Algorithmics II Lecture 2
+- [ ] Algorithmics II Lab Sheet 2
+- [ ] Algorithmics Quiz 1
+- [ ] Algorithmics Quiz 2
+- [ ] Algorithmics Quiz 3
+- [ ] Professional Software Issues Lecture 1
+- [ ] Professional Software Issues Tutorial 1
+- [ ] Professional Software Issues Essential Reading 1
+- [ ] Distributed and Parallel Technologies Lecture 1
+- [ ] Distributed and Parallel Technologies Lecture 2
+- [ ] Distributed and Parallel Technologies Lab Sheet 1
+
+#### Week Three (06/10)
+- [ ] Functional Programming Lecture 3
+- [ ] Functional Programming Lecture 4
+- [ ] Functional Programming Lab Sheet 2
+- [ ] Functional Programming Quiz 2
+- [ ] Computer Architecture Lecture 3
+- [ ] Computer Architecture Lecture 4
+- [ ] Algorithmics II Lecture 3
+- [ ] Algorithmics II Lecture 4
+- [ ] Algorithmics II Lab Sheet 3
+- [ ] Algorithmics Quiz 4
+- [ ] Algorithmics Quiz 5
+- [ ] Algorithmics Quiz 6
+- [ ] Professional Software Issues Lecture 2
+- [ ] Professional Software Issues Tutorial 2
+- [ ] Professional Software Issues Essential Reading 2
+- [ ] Distributed and Parallel Technologies Lecture 3
+- [ ] Distributed and Parallel Technologies Lecture 4
+- [ ] Distributed and Parallel Technologies Lab Sheet 2
+
+#### Week Four (13/10)
+- [ ] Functional Programming Lecture 5
+- [ ] Functional Programming Lecture 6
+- [ ] Functional Programming Lab Sheet 3
+- [ ] Functional Programming Quiz 3
+- [ ] Computer Architecture Lecture 5
+- [ ] Computer Architecture Lecture 6
+- [ ] Algorithmics II Lecture 5
+- [ ] Algorithmics II Lecture 6
+- [ ] Algorithmics II Lab Sheet 4
+- [ ] Algorithmics Quiz 7
+- [ ] Algorithmics Quiz 8
+- [ ] Algorithmics Quiz 9
+- [ ] Professional Software Issues Lecture 3
+- [ ] Professional Software Issues Tutorial 3
+- [ ] Professional Software Issues Essential Reading 3
+- [ ] Distributed and Parallel Technologies Lecture 5
+- [ ] Distributed and Parallel Technologies Lecture 6
+- [ ] Distributed and Parallel Technologies Lab Sheet 3
+
+#### Week Five (20/10)
+- [ ] Functional Programming Lecture 7
+- [ ] Functional Programming Lecture 8
+- [ ] Functional Programming Lab Sheet 4
+- [ ] Functional Programming Quiz 4
+- [ ] Computer Architecture Lecture 7
+- [ ] Computer Architecture Lecture 8
+- [ ] Algorithmics II Lecture 7
+- [ ] Algorithmics II Lecture 8
+- [ ] Algorithmics II Lab Sheet 5
+- [ ] Algorithmics Quiz 10
+- [ ] Algorithmics Quiz 11
+- [ ] Algorithmics Quiz 12
+- [ ] Professional Software Issues Lecture 4
+- [ ] Professional Software Issues Tutorial 4
+- [ ] Professional Software Issues Essential Reading 4
+- [ ] Distributed and Parallel Technologies Lecture 7
+- [ ] Distributed and Parallel Technologies Lecture 8
+- [ ] Distributed and Parallel Technologies Lab Sheet 4
+- [ ] Distributed and Parallel Coursework 1
+
+#### Week Six (27/10)
+- [ ] Functional Programming Lecture 9
+- [ ] Functional Programming Lecture 10
+- [ ] Functional Programming Lab Sheet 5
+- [ ] Functional Programming Quiz 5
+- [ ] Computer Architecture Lecture 9
+- [ ] Computer Architecture Lecture 10
+- [ ] Algorithmics II Lecture 9
+- [ ] Algorithmics II Lecture 10
+- [ ] Algorithmics II Lab Sheet 6
+- [ ] Algorithmics Quiz 13
+- [ ] Algorithmics Quiz 14
+- [ ] Algorithmics Quiz 15
+- [ ] Professional Software Issues Lecture 5
+- [ ] Professional Software Issues Tutorial 5
+- [ ] Professional Software Issues Essential Reading 5
+- [ ] Distributed and Parallel Technologies Lecture 9
+- [ ] Distributed and Parallel Technologies Lecture 10
+- [ ] Distributed and Parallel Technologies Lab Sheet 5
+
+#### Week Seven (03/11)
+- [ ] Functional Programming Lecture 11
+- [ ] Functional Programming Lecture 12
+- [ ] Functional Programming Lab Sheet 6
+- [ ] Functional Programming Quiz 6
+- [ ] Computer Architecture Lecture 11
+- [ ] Computer Architecture Lecture 12
+- [ ] Algorithmics II Lecture 11
+- [ ] Algorithmics II Lecture 12
+- [ ] Algorithmics II Lab Sheet 7
+- [ ] Algorithmics Quiz 16
+- [ ] Algorithmics Quiz 17
+- [ ] Algorithmics Quiz 18
+- [ ] Professional Software Issues Lecture 6
+- [ ] Professional Software Issues Tutorial 6
+- [ ] Professional Software Issues Essential Reading 6
+- [ ] Distributed and Parallel Technologies Lecture 11
+- [ ] Distributed and Parallel Technologies Lecture 12
+- [ ] Distributed and Parallel Technologies Lab Sheet 6
+
+#### Week Eight (10/11)
+- [ ] Functional Programming Lecture 13
+- [ ] Functional Programming Lecture 14
+- [ ] Functional Programming Lab Sheet 7
+- [ ] Functional Programming Quiz 7
+- [ ] Computer Architecture Lecture 13
+- [ ] Computer Architecture Lecture 14
+- [ ] Algorithmics II Lecture 13
+- [ ] Algorithmics II Lecture 14
+- [ ] Algorithmics II Lab Sheet 8
+- [ ] Algorithmics Quiz 19
+- [ ] Algorithmics Quiz 20
+- [ ] Algorithmics Quiz 21
+- [ ] Professional Software Issues Lecture 7
+- [ ] Professional Software Issues Tutorial 7
+- [ ] Professional Software Issues Essential Reading 7
+- [ ] Distributed and Parallel Technologies Lecture 13
+- [ ] Distributed and Parallel Technologies Lecture 14
+- [ ] Distributed and Parallel Technologies Lab Sheet 7
+
+#### Week Nine (17/11)
+- [ ] Functional Programming Lecture 15
+- [ ] Functional Programming Lecture 16
+- [ ] Functional Programming Lab Sheet 8
+- [ ] Functional Programming Quiz 8
+- [ ] Computer Architecture Lecture 15
+- [ ] Computer Architecture Lecture 16
+- [ ] Algorithmics II Lecture 15
+- [ ] Algorithmics II Lecture 16
+- [ ] Algorithmics II Lab Sheet 9
+- [ ] Algorithmics Quiz 22
+- [ ] Algorithmics Quiz 23
+- [ ] Algorithmics Quiz 24
+- [ ] Professional Software Issues Lecture 8
+- [ ] Professional Software Issues Tutorial 8
+- [ ] Professional Software Issues Essential Reading 8
+- [ ] Distributed and Parallel Technologies Lecture 15
+- [ ] Distributed and Parallel Technologies Lecture 16
+- [ ] Distributed and Parallel Technologies Lab Sheet 8
+- [ ] Distributed and Parallel Coursework 2
+
+#### Week Ten (24/11)
+- [ ] Functional Programming Lecture 17
+- [ ] Functional Programming Lecture 18
+- [ ] Functional Programming Lab Sheet 9
+- [ ] Functional Programming Quiz 9
+- [ ] Computer Architecture Lecture 17
+- [ ] Computer Architecture Lecture 18
+- [ ] Algorithmics II Lecture 17
+- [ ] Algorithmics II Lecture 18
+- [ ] Algorithmics II Lab Sheet 10
+- [ ] Algorithmics Quiz 25
+- [ ] Algorithmics Quiz 26
+- [ ] Algorithmics Quiz 27
+- [ ] Professional Software Issues Lecture 9
+- [ ] Professional Software Issues Tutorial 9
+- [ ] Professional Software Issues Essential Reading 9
+- [ ] Distributed and Parallel Technologies Lecture 17
+- [ ] Distributed and Parallel Technologies Lecture 18
+- [ ] Distributed and Parallel Technologies Lab Sheet 9
+
+#### Week Eleven (01/12)
+- [ ] Functional Programming Lecture 19
+- [ ] Functional Programming Lecture 20
+- [ ] Functional Programming Lab Sheet 10
+- [ ] Functional Programming Quiz 10
+- [ ] Computer Architecture Lecture 19
+- [ ] Computer Architecture Lecture 20
+- [ ] Algorithmics II Lecture 19
+- [ ] Algorithmics II Lecture 20
+- [ ] Algorithmics II Lab Sheet 11
+- [ ] Algorithmics Quiz 28
+- [ ] Algorithmics Quiz 29
+- [ ] Professional Software Issues Lecture 10
+- [ ] Professional Software Issues Tutorial 10
+- [ ] Professional Software Issues Essential Reading 10
+- [ ] Distributed and Parallel Technologies Lecture 19
+- [ ] Distributed and Parallel Technologies Lecture 20
+- [ ] Distributed and Parallel Technologies Lab Sheet 10
