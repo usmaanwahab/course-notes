@@ -168,6 +168,31 @@ If there are more than two cases use:
 - A multiplexer with more control bits
 - Nested multiplexers
 
-#### Using Encodings - The Demultiplexer
+#### Using Encoding - The Demultiplexer
 ---
-Sometimes there is a group of signals, and they all correspond to the $2^k$ cases specified by the $k$ bit opcode.
+Sometimes there is a group of signals, and they all correspond to the $2^k$ cases specified by the $k$ bit opcode. 
+
+##### Defining Building Blocks
+---
+You can simplify the design of a circuit by imagining that you have some suitable building block circuits. 
+- Logic gates, basic circuits (Multiplexers, Demultiplexers, bit adders)
+
+For example, the ripple carry adder could be designed directly, but better to
+- Imagine a building block that handles the addition in one bit position
+- Design the building block (the full adder)
+- Design the overall structure of the ripple carry adder based on full adders
+
+
+We normally think of logic gates as computing pure boolean functions, but this view ignore the **time behaviour** of the components.
+
+If the input to a logic gate changes, it takes some time before the gate can bring the output to the correct new value. This is called **gate delay**.
+
+If the input to a circuit changes at time $t_0$, when will the output become valid? It will become valid at $t_0 + d$, where $d$ is the gate delay.
+
+If the input to a logic gate changes, you cannot rely on the output until the gate delay has elapsed. The output is **invalid**.
+For example, at time $t_0$ the input to an inverted changes from $0$ to $1$. 
+- But the output remains 1 until time $t_0 + d$
+- During this time the output signal is **invalid**
+
+If a signal is invalid, doesn't mean that it is wrong. It just means that it is not guaranteed correct.
+For example, at time $t_0$ the first input to an `and2` gate changes from $0$ to $1$, but the other input remains $0$. The output is invalid until $t_0 + d$ although its value is $0$, which is correct.
