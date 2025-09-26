@@ -6,7 +6,7 @@
 - [ ] Functional Programming Lab Sheet 1
 - [ ] Functional Programming Quiz 1
 - [x] Computer Architecture Lecture 1
-- [ ] Computer Architecture Lecture 2
+- [x] Computer Architecture Lecture 2
 - [x] Algorithmics II Lecture 1
 - [x] Algorithmics II Lecture 2
 - [ ] Algorithmics II Lab Sheet 2
@@ -45,6 +45,7 @@
 - [ ] Functional Programming Lecture 6
 - [ ] Functional Programming Lab Sheet 3
 - [ ] Functional Programming Quiz 3
+- [ ] Functional Programming Class Test
 - [ ] Computer Architecture Lecture 5
 - [ ] Computer Architecture Lecture 6
 - [ ] Algorithmics II Lecture 5

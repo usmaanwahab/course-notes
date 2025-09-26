@@ -182,6 +182,7 @@ For example, the ripple carry adder could be designed directly, but better to
 - Design the building block (the full adder)
 - Design the overall structure of the ripple carry adder based on full adders
 
+---
 
 We normally think of logic gates as computing pure boolean functions, but this view ignore the **time behaviour** of the components.
 
@@ -196,3 +197,52 @@ For example, at time $t_0$ the input to an inverted changes from $0$ to $1$.
 
 If a signal is invalid, doesn't mean that it is wrong. It just means that it is not guaranteed correct.
 For example, at time $t_0$ the first input to an `and2` gate changes from $0$ to $1$, but the other input remains $0$. The output is invalid until $t_0 + d$ although its value is $0$, which is correct.
+
+Gate delay are cumulative. For example, consider `and2 (inv x) y`. If $x$ changes at $t_0$, the output of the inverter becomes valid at $t_0 + d$, and the output of the `and2` gate becomes valid at $t_0 + 2\ x\ d$ 
+
+The **path depth** of a signal is the number of gate delays required to make it valid after the inputs have changed. The path depth is a fundamental **limitation** on its speed, it determines the speed of the circuit.
+
+The **critical path depth** of a circuit sit he maximum path depth of all its outputs. The portion of the circuit that produces this output is called the **critical path**.
+
+The critical path depth determines the speed of the circuit. A combinational circuit will produce many outputs. The user of the circuit must wait until all the outputs are valid.
+
+Strange effects can occur when the inputs of a circuit become stable at different times (which is common). For example,
+```
+y = and2 x (inv x)
+```
+
+According to Boolean algebra, we can transform this to `y = zero`
+If we draw a graph with the signal values as a function of time, when x changes from 0 to 1, the output of `inv x` takes time to change from 1 to 0. This results is for a short duration where the two inputs to the `and2` gate are 1, and the output will be 1 momentarily which is incorrect.
+
+The hardware does not always obey the laws of Boolean algebra.
+
+We have considered only combinational circuits without feedback, but it is possible to introduce feedback into a combinational circuit.
+
+For example, consider this circuit with (no input, and one output).
+
+```
+circ = x
+	where x = inv x
+```
+
+The efficiency of a circuit is relative to a cost model, it is not necessarily the number of components. In general, finding a good algorithm improves performance more than trying to save some logic gates here and there. 
+
+In VLSI design, regularity of layout pays off better than random optimisation.
+
+A good technique is to find a clear and understandable design, and then measure its performance, use Boolean algebra to optimise the circuit.
+
+Correctness is more important than efficiency.
+
+We often want to transform a circuit, find another circuit that implements the same logic function, but that is "better" in some way.
+
+Problem - we need a precise definition of better
+- A cost model assigns a numeric cost to each circuit
+- The best circuit is the one with the lowest cost
+
+There are many cost models, the choice of the best circuit depends on which cost model is used.
+
+The number of components in the circuit. Was a good cost model when digital circuits were built from discrete components.
+
+The **area of the circuit** on a chip. Relevant for integrated circuit (VLSI) design.
+
+The **path depth**, gives an accurate measure of the speed of a combinational circuit.
