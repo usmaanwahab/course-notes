@@ -16,8 +16,8 @@
 - [ ] Professional Software Issues Lecture 1
 - [ ] Professional Software Issues Tutorial 1
 - [ ] Professional Software Issues Essential Reading 1
-- [ ] Distributed and Parallel Technologies Lecture 1
-- [ ] Distributed and Parallel Technologies Lecture 2
+- [x] Distributed and Parallel Technologies Lecture 1
+- [x] Distributed and Parallel Technologies Lecture 2
 - [ ] Distributed and Parallel Technologies Lab Sheet 1
 
 #### Week Three (06/10)
