@@ -14,7 +14,7 @@
 - [ ] Algorithmics Quiz 2
 - [ ] Algorithmics Quiz 3
 - [x] Professional Software Issues Lecture 1
-- [ ] Professional Software Issues Tutorial 1
+- [x] Professional Software Issues Tutorial 1
 - [x] Professional Software Issues Essential Reading 1
 - [x] Distributed and Parallel Technologies Lecture 1
 - [x] Distributed and Parallel Technologies Lecture 2

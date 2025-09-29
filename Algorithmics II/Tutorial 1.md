@@ -112,7 +112,7 @@ public boolean intersect(Line[] lines) {
 			System.out.println("Not all lines lie on the x-axi");
 		} 	
 	}
-	// p1 x will always be smaller than p2 x
+	// p1 x should always be smaller than p2 x
 	for (Line l: lines) {
 		if (l1.p1.x > l1.p2.x) {
 			Point2D.Double temp = l1.p1;
