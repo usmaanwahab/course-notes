@@ -4,18 +4,18 @@
 - [x] Functional Programming Lecture 1
 - [x] Functional Programming Lecture 2
 - [ ] Functional Programming Lab Sheet 1
-- [ ] Functional Programming Quiz 1
+- [x] Functional Programming Quiz 1
 - [x] Computer Architecture Lecture 1
 - [x] Computer Architecture Lecture 2
 - [x] Algorithmics II Lecture 1
 - [x] Algorithmics II Lecture 2
 - [ ] Algorithmics II Lab Sheet 2
-- [ ] Algorithmics Quiz 1
+- [x] Algorithmics Quiz 1
 - [ ] Algorithmics Quiz 2
 - [ ] Algorithmics Quiz 3
 - [ ] Professional Software Issues Lecture 1
 - [ ] Professional Software Issues Tutorial 1
-- [ ] Professional Software Issues Essential Reading 1
+- [x] Professional Software Issues Essential Reading 1
 - [x] Distributed and Parallel Technologies Lecture 1
 - [x] Distributed and Parallel Technologies Lecture 2
 - [ ] Distributed and Parallel Technologies Lab Sheet 1
