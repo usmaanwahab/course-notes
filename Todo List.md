@@ -13,7 +13,7 @@
 - [ ] Algorithmics II Lab Sheet 2
 - [x] Algorithmics Quiz 1
 - [x] Algorithmics Quiz 2
-- [ ] Algorithmics Quiz 3z
+- [x] Algorithmics Quiz 3
 - [x] Professional Software Issues Lecture 1
 - [x] Professional Software Issues Tutorial 1
 - [x] Professional Software Issues Essential Reading 1
