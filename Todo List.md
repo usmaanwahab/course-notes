@@ -3,7 +3,7 @@
 #### Week Two (29/09)
 - [x] Functional Programming Lecture 1
 - [x] Functional Programming Lecture 2
-- [ ] Functional Programming Lab Sheet 1
+- [x] Functional Programming Lab Sheet 1
 - [x] Functional Programming Quiz 1
 - [x] Computer Architecture Lecture 1
 - [x] Computer Architecture Lecture 2
@@ -12,8 +12,8 @@
 - [x] Algorithmics II Lecture 2
 - [ ] Algorithmics II Lab Sheet 2
 - [x] Algorithmics Quiz 1
-- [ ] Algorithmics Quiz 2
-- [ ] Algorithmics Quiz 3
+- [x] Algorithmics Quiz 2
+- [ ] Algorithmics Quiz 3z
 - [x] Professional Software Issues Lecture 1
 - [x] Professional Software Issues Tutorial 1
 - [x] Professional Software Issues Essential Reading 1
