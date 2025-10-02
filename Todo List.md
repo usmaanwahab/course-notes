@@ -7,6 +7,7 @@
 - [x] Functional Programming Quiz 1
 - [x] Computer Architecture Lecture 1
 - [x] Computer Architecture Lecture 2
+- [ ] Computer Architecture Lab Sheet 1
 - [x] Algorithmics II Lecture 1
 - [x] Algorithmics II Lecture 2
 - [ ] Algorithmics II Lab Sheet 2
@@ -16,9 +17,6 @@
 - [x] Professional Software Issues Lecture 1
 - [x] Professional Software Issues Tutorial 1
 - [x] Professional Software Issues Essential Reading 1
-- [x] Distributed and Parallel Technologies Lecture 1
-- [x] Distributed and Parallel Technologies Lecture 2
-- [ ] Distributed and Parallel Technologies Lab Sheet 1
 
 #### Week Three (06/10)
 - [ ] Functional Programming Lecture 3
@@ -36,9 +34,7 @@
 - [ ] Professional Software Issues Lecture 2
 - [ ] Professional Software Issues Tutorial 2
 - [ ] Professional Software Issues Essential Reading 2
-- [ ] Distributed and Parallel Technologies Lecture 3
-- [ ] Distributed and Parallel Technologies Lecture 4
-- [ ] Distributed and Parallel Technologies Lab Sheet 2
+
 
 #### Week Four (13/10)
 - [ ] Functional Programming Lecture 5
@@ -57,9 +53,7 @@
 - [ ] Professional Software Issues Lecture 3
 - [ ] Professional Software Issues Tutorial 3
 - [ ] Professional Software Issues Essential Reading 3
-- [ ] Distributed and Parallel Technologies Lecture 5
-- [ ] Distributed and Parallel Technologies Lecture 6
-- [ ] Distributed and Parallel Technologies Lab Sheet 3
+
 
 #### Week Five (20/10)
 - [ ] Functional Programming Lecture 7
@@ -77,10 +71,6 @@
 - [ ] Professional Software Issues Lecture 4
 - [ ] Professional Software Issues Tutorial 4
 - [ ] Professional Software Issues Essential Reading 4
-- [ ] Distributed and Parallel Technologies Lecture 7
-- [ ] Distributed and Parallel Technologies Lecture 8
-- [ ] Distributed and Parallel Technologies Lab Sheet 4
-- [ ] Distributed and Parallel Coursework 1
 
 #### Week Six (27/10)
 - [ ] Functional Programming Lecture 9
@@ -98,9 +88,7 @@
 - [ ] Professional Software Issues Lecture 5
 - [ ] Professional Software Issues Tutorial 5
 - [ ] Professional Software Issues Essential Reading 5
-- [ ] Distributed and Parallel Technologies Lecture 9
-- [ ] Distributed and Parallel Technologies Lecture 10
-- [ ] Distributed and Parallel Technologies Lab Sheet 5
+
 
 #### Week Seven (03/11)
 - [ ] Functional Programming Lecture 11
@@ -118,9 +106,6 @@
 - [ ] Professional Software Issues Lecture 6
 - [ ] Professional Software Issues Tutorial 6
 - [ ] Professional Software Issues Essential Reading 6
-- [ ] Distributed and Parallel Technologies Lecture 11
-- [ ] Distributed and Parallel Technologies Lecture 12
-- [ ] Distributed and Parallel Technologies Lab Sheet 6
 
 #### Week Eight (10/11)
 - [ ] Functional Programming Lecture 13
@@ -138,9 +123,6 @@
 - [ ] Professional Software Issues Lecture 7
 - [ ] Professional Software Issues Tutorial 7
 - [ ] Professional Software Issues Essential Reading 7
-- [ ] Distributed and Parallel Technologies Lecture 13
-- [ ] Distributed and Parallel Technologies Lecture 14
-- [ ] Distributed and Parallel Technologies Lab Sheet 7
 
 #### Week Nine (17/11)
 - [ ] Functional Programming Lecture 15
@@ -158,10 +140,6 @@
 - [ ] Professional Software Issues Lecture 8
 - [ ] Professional Software Issues Tutorial 8
 - [ ] Professional Software Issues Essential Reading 8
-- [ ] Distributed and Parallel Technologies Lecture 15
-- [ ] Distributed and Parallel Technologies Lecture 16
-- [ ] Distributed and Parallel Technologies Lab Sheet 8
-- [ ] Distributed and Parallel Coursework 2
 
 #### Week Ten (24/11)
 - [ ] Functional Programming Lecture 17
@@ -179,9 +157,6 @@
 - [ ] Professional Software Issues Lecture 9
 - [ ] Professional Software Issues Tutorial 9
 - [ ] Professional Software Issues Essential Reading 9
-- [ ] Distributed and Parallel Technologies Lecture 17
-- [ ] Distributed and Parallel Technologies Lecture 18
-- [ ] Distributed and Parallel Technologies Lab Sheet 9
 
 #### Week Eleven (01/12)
 - [ ] Functional Programming Lecture 19
@@ -198,6 +173,3 @@
 - [ ] Professional Software Issues Lecture 10
 - [ ] Professional Software Issues Tutorial 10
 - [ ] Professional Software Issues Essential Reading 10
-- [ ] Distributed and Parallel Technologies Lecture 19
-- [ ] Distributed and Parallel Technologies Lecture 20
-- [ ] Distributed and Parallel Technologies Lab Sheet 10
