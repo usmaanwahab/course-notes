@@ -17,15 +17,16 @@
 - [x] Professional Software Issues Lecture 1
 - [x] Professional Software Issues Tutorial 1
 - [x] Professional Software Issues Essential Reading 1
+- [x] Research Methods and Technologies Lecture 1
 
 #### Week Three (06/10)
-- [ ] Functional Programming Lecture 3
+- [x] Functional Programming Lecture 3
 - [ ] Functional Programming Lecture 4
 - [ ] Functional Programming Lab Sheet 2
 - [ ] Functional Programming Quiz 2
 - [ ] Computer Architecture Lecture 3
 - [ ] Computer Architecture Lecture 4
-- [ ] Algorithmics II Lecture 3
+- [x] Algorithmics II Lecture 3
 - [ ] Algorithmics II Lecture 4
 - [ ] Algorithmics II Lab Sheet 3
 - [ ] Algorithmics Quiz 4
@@ -34,7 +35,7 @@
 - [ ] Professional Software Issues Lecture 2
 - [ ] Professional Software Issues Tutorial 2
 - [ ] Professional Software Issues Essential Reading 2
-
+- [ ] Research Methods and Technologies Lecture 2
 
 #### Week Four (13/10)
 - [ ] Functional Programming Lecture 5
@@ -53,6 +54,7 @@
 - [ ] Professional Software Issues Lecture 3
 - [ ] Professional Software Issues Tutorial 3
 - [ ] Professional Software Issues Essential Reading 3
+- [ ] Research Methods and Technologies Lecture 3
 
 
 #### Week Five (20/10)
