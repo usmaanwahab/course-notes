@@ -25,7 +25,7 @@ phys m1 m2 d = let g = 6.67e-11 in (g * m1 * m1) / d ** 2
 
 oneToThirtyDivisibleBy3 = [x | x <- [1 .. 30], x `mod` 3 == 0]
 
-triangleNums n = [floor ((x * (x + 1)) / 2) | x <- [1 .. n]]
+triangleNums n = [((x * (x + 1)) `div` 2) | x <- [1 .. n]]
 
 primes :: Int -> [Int]
 primes n = [x | x <- [1 .. n], all (\y -> x `mod` y /= 0) [2 .. x - 1]]

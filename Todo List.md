@@ -7,10 +7,10 @@
 - [x] Functional Programming Quiz 1
 - [x] Computer Architecture Lecture 1
 - [x] Computer Architecture Lecture 2
-- [ ] Computer Architecture Lab Sheet 1
+- [x] Computer Architecture Lab Sheet 1
 - [x] Algorithmics II Lecture 1
 - [x] Algorithmics II Lecture 2
-- [ ] Algorithmics II Lab Sheet 2
+- [x] Algorithmics II Lab Sheet 2
 - [x] Algorithmics Quiz 1
 - [x] Algorithmics Quiz 2
 - [x] Algorithmics Quiz 3
@@ -21,21 +21,21 @@
 
 #### Week Three (06/10)
 - [x] Functional Programming Lecture 3
-- [ ] Functional Programming Lecture 4
-- [ ] Functional Programming Lab Sheet 2
+- [x] Functional Programming Lecture 4
+- [x] Functional Programming Lab Sheet 2
 - [ ] Functional Programming Quiz 2
-- [ ] Computer Architecture Lecture 3
-- [ ] Computer Architecture Lecture 4
+- [x] Computer Architecture Lecture 3
+- [x] Computer Architecture Lecture 4
 - [x] Algorithmics II Lecture 3
-- [ ] Algorithmics II Lecture 4
-- [ ] Algorithmics II Lab Sheet 3
-- [ ] Algorithmics Quiz 4
-- [ ] Algorithmics Quiz 5
-- [ ] Algorithmics Quiz 6
-- [ ] Professional Software Issues Lecture 2
-- [ ] Professional Software Issues Tutorial 2
+- [x] Algorithmics II Lecture 4
+- [x] Algorithmics II Lab Sheet 3
+- [x] Algorithmics Quiz 4
+- [x] Algorithmics Quiz 5
+- [x] Algorithmics Quiz 6
+- [x] Professional Software Issues Lecture 2
+- [x] Professional Software Issues Tutorial 2
 - [ ] Professional Software Issues Essential Reading 2
-- [ ] Research Methods and Technologies Lecture 2
+- [x] Research Methods and Technologies Lecture 2
 
 #### Week Four (13/10)
 - [ ] Functional Programming Lecture 5
