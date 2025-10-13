@@ -55,12 +55,15 @@ public boolean intersect(Line l1, Line l2) {
 
 ```
 
-Question 3 - The opposite side tests work on the lines not the line segments, so two points can be correctly opposite of the line but not the line segment. The bounding box basically acts to filter out these situations.
+### Question 3
+---
+The opposite side tests work on the lines not the line segments, so two points can be correctly opposite of the line but not the line segment. The bounding box basically acts to filter out these situations.
 
 
+### Question 4
+---
+This question requires merge sort, not quick sort.
 ```java
-// Question 4
-
 public class Line {
 	Point2D.Double p1;
 	Point2D.Double p2;
@@ -134,3 +137,47 @@ public boolean intersect(Line[] lines) {
 	return false;
 }
 ```
+
+### Question 5
+---
+
+### Question 6
+---
+
+### Question 7
+---
+Yes, typically we choose the pivot with the largest x (and smallest y to break a tie. This is also the basis for simple polygon construction. A property of the convex hull is that it will include the points with largest and smallest x and y values. If we start at a point that is not on the convex hull, since Graham Scan can only remove predecessors, it will build the temporary hull in memory once it tries to complete the hull it will not be able to handle this cases due to starting at an improper pivot.
+### Question 8
+---
+A point set where the points on the edge of the line zig zag. That is, a point set such that it is constantly turning right after turning left forcing it to exclude and recalculate. This would also incur branch prediction penalties 
+
+### Question 9
+---
+Initial idea would've just been to $O(n)$ split this space into two separate convex hulls for a furthest pair of points of the same colour.
+However, how do we guarantee that we can find a furthest pair of points of different colours. Since rotating calipers doesn't map every distance in the convex hull only points that have a chance of being the the furthest. So unless the points just so happen to be opposite colours we can't generally guarantee a furthest pair of points that have different colours without significant alteration to the algorithm.
+### Question 10
+---
+A - True
+B - False
+
+Run the algorithm three times, the first time finds the closest pair say $p,q$. Remove $p$ the second run still keeping $q$. Remove $q$ but still keep $p$. Then return the smallest distance from the second and third run.
+
+C - True
+
+If we have only two points (0, 1) and (0,-1), if we partition we get $d_1$ = 1 and $d_2$ = 1, since we return the largest y instead of `DoubDOUBLE_MAX` we open the possibility for the algorithm to report a distance that doesn't exist. Since you can see that the the closest pair has a distance of 2 units. So we need something that we can guarantee that it can be improved upon.
+
+
+
+### Question 11
+---
+Sort the points by x coordinate, and we break ties by y coordinate.
+
+Iterate in reverse, we maintain a y pointer to the largest y we've found, every time the y_max value gets updated we have another maximal point.
+### Question 12
+---
+
+### Question 13
+---
+
+### Question 14
+---
